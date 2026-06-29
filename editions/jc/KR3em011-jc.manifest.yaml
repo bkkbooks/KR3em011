@@ -1,0 +1,1058 @@
+canonical_identifier: bkk:krp/KR3em011/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em011/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 銀海精微
+  identifiers:
+    krp: KR3em011
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04410
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em011.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em011_000-jc.yaml, hash: 'sha256:ee87c979860f147d74366a65d3581df65f758ca8f3ffbcc737f30a522eeb6902'}
+  - {seq: 1, filename: KR3em011_001-jc.yaml, hash: 'sha256:ad4381d352731c04776971a82fa876223584b2572c6ff2794238eb16ba6d68fa'}
+  - {seq: 3, filename: KR3em011_003-jc.yaml, hash: 'sha256:0bc995eebd2b4cde5a9c3cf787d1933cf190f03be465868da933b6266ba44b38'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em011_000-jc.markers.yaml, hash: 'sha256:8ed185570e60e8c2d3f6d08c0e2d5f0ba9914286813c74a9d46d8ee5d46ac1e8'}
+  - {seq: 1, role: markers, filename: assets/KR3em011_001-jc.markers.yaml, hash: 'sha256:25143caa38edeaa6bdc089ac1beb0625f820b1d36771e6ecdeb9ee573aacf124'}
+  - {seq: 3, role: markers, filename: assets/KR3em011_003-jc.markers.yaml, hash: 'sha256:bc33acaec921ce949df1d14e5dcac33c25f868fd6e34cba8c8a286262fb2f69e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em011_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 935
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em011_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 253
+  label: 引
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 21618
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 446
+  label: 五輪八廓總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d3
+    span:
+    - body
+    - 446
+    - 492
+  label: 五輪之圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d4
+    span:
+    - body
+    - 492
+    - 555
+  label: 五輪圖式
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d5
+    span:
+    - body
+    - 555
+    - 831
+  label: 八廓之圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d6
+    span:
+    - body
+    - 831
+    - 1253
+  label: 八廓圖式
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d7
+    span:
+    - body
+    - 1253
+    - 1780
+  label: 大眥赤脈傳睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d8
+    span:
+    - body
+    - 1780
+    - 2167
+  label: 小眥赤脈傳睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d9
+    span:
+    - body
+    - 2167
+    - 2583
+  label: 胬肉攀睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d10
+    span:
+    - body
+    - 2583
+    - 3037
+  label: 雞冠蜆肉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d11
+    span:
+    - body
+    - 3037
+    - 3626
+  label: 兩瞼黏睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d12
+    span:
+    - body
+    - 3626
+    - 3802
+  label: 眵淚黏濃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d13
+    span:
+    - body
+    - 3802
+    - 3990
+  label: 眵淚淨明
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d14
+    span:
+    - body
+    - 3990
+    - 4227
+  label: 蠅翅黑花
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d15
+    span:
+    - body
+    - 4227
+    - 4389
+  label: 目暗生花
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d16
+    span:
+    - body
+    - 4389
+    - 4521
+  label: 熱極眵睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d17
+    span:
+    - body
+    - 4521
+    - 4809
+  label: 胞肉膠凝
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d18
+    span:
+    - body
+    - 4809
+    - 5121
+  label: 胞肉生瘡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d19
+    span:
+    - body
+    - 5121
+    - 5351
+  label: 瞼生風粟
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d20
+    span:
+    - body
+    - 5351
+    - 5644
+  label: 天行赤眼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d21
+    span:
+    - body
+    - 5644
+    - 5964
+  label: 大患後生翳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d22
+    span:
+    - body
+    - 5964
+    - 6217
+  label: 暴露赤眼生翳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d23
+    span:
+    - body
+    - 6217
+    - 6757
+  label: 暴風客熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d24
+    span:
+    - body
+    - 6757
+    - 7222
+  label: 痛如神祟
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d25
+    span:
+    - body
+    - 7222
+    - 7379
+  label: 痛如針刺
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d26
+    span:
+    - body
+    - 7379
+    - 7794
+  label: 傷寒熱病後外障
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d27
+    span:
+    - body
+    - 7794
+    - 8250
+  label: 風牽出瞼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d28
+    span:
+    - body
+    - 8250
+    - 8548
+  label: 風牽喎斜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d29
+    span:
+    - body
+    - 8548
+    - 8815
+  label: 被物撞破
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d30
+    span:
+    - body
+    - 8815
+    - 8948
+  label: 撞刺生翳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d31
+    span:
+    - body
+    - 8948
+    - 9402
+  label: 血灌瞳人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d32
+    span:
+    - body
+    - 9402
+    - 9748
+  label: 血翳包睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d33
+    span:
+    - body
+    - 9748
+    - 9940
+  label: 瞼生偷針
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d34
+    span:
+    - body
+    - 9940
+    - 10297
+  label: 黑翳如珠
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d35
+    span:
+    - body
+    - 10297
+    - 10490
+  label: 蟹睛疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d36
+    span:
+    - body
+    - 10490
+    - 10666
+  label: 旋螺尖起
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d37
+    span:
+    - body
+    - 10666
+    - 10928
+  label: 突起睛高
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d38
+    span:
+    - body
+    - 10928
+    - 11147
+  label: 硬瞼硬睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d39
+    span:
+    - body
+    - 11147
+    - 11436
+  label: 白陷魚鱗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d40
+    span:
+    - body
+    - 11436
+    - 11664
+  label: 花翳白陷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d41
+    span:
+    - body
+    - 11664
+    - 11951
+  label: 冰蝦翳深
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d42
+    span:
+    - body
+    - 11951
+    - 12384
+  label: 玉翳浮瞞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d43
+    span:
+    - body
+    - 12384
+    - 12736
+  label: 膜入水輪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d44
+    span:
+    - body
+    - 12736
+    - 13044
+  label: 風輪釘翳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d45
+    span:
+    - body
+    - 13044
+    - 13383
+  label: 黃膜下垂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d46
+    span:
+    - body
+    - 13383
+    - 13554
+  label: 赤膜下垂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d47
+    span:
+    - body
+    - 13554
+    - 13846
+  label: 逆順生翳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d48
+    span:
+    - body
+    - 13846
+    - 14066
+  label: 漏眼膿血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d49
+    span:
+    - body
+    - 14066
+    - 14344
+  label: 飛塵入眼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d50
+    span:
+    - body
+    - 14344
+    - 14777
+  label: 拳毛倒睫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d51
+    span:
+    - body
+    - 14777
+    - 15229
+  label: 充風淚出
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d52
+    span:
+    - body
+    - 15229
+    - 15544
+  label: 肝風積熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d53
+    span:
+    - body
+    - 15544
+    - 16035
+  label: 坐起生花
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d54
+    span:
+    - body
+    - 16035
+    - 16346
+  label: 黃昏不見
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d55
+    span:
+    - body
+    - 16346
+    - 16654
+  label: 瞳人幹缺
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d56
+    span:
+    - body
+    - 16654
+    - 16905
+  label: 癢極難忍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d57
+    span:
+    - body
+    - 16905
+    - 17021
+  label: 眼內風癢
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d58
+    span:
+    - body
+    - 17021
+    - 17195
+  label: 垂簾翳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d59
+    span:
+    - body
+    - 17195
+    - 17390
+  label: 鶻眼凝睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d60
+    span:
+    - body
+    - 17390
+    - 17916
+  label: 轆轤展開
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d61
+    span:
+    - body
+    - 17916
+    - 18119
+  label: 小兒通睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d62
+    span:
+    - body
+    - 18119
+    - 18555
+  label: 小兒疹痘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d63
+    span:
+    - body
+    - 18555
+    - 18784
+  label: 小兒眼生翳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d64
+    span:
+    - body
+    - 18784
+    - 19140
+  label: 痘疹入眼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d65
+    span:
+    - body
+    - 19140
+    - 19454
+  label: 小兒雀目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d66
+    span:
+    - body
+    - 19454
+    - 19823
+  label: 胎風赤爛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d67
+    span:
+    - body
+    - 19823
+    - 20506
+  label: 小兒疳傷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d68
+    span:
+    - body
+    - 20506
+    - 21030
+  label: 風弦赤眼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d69
+    span:
+    - body
+    - 21030
+    - 21346
+  label: 肝風目暗疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em011_jc_001-d4d70
+    span:
+    - body
+    - 21346
+    - 21618
+  label: 迎風灑淚症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 23098
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 145
+  label: 紅霞映日
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d3
+    span:
+    - body
+    - 145
+    - 249
+  label: 早晨疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d4
+    span:
+    - body
+    - 249
+    - 387
+  label: 午後疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d5
+    span:
+    - body
+    - 387
+    - 662
+  label: 痛極憎寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d6
+    span:
+    - body
+    - 662
+    - 809
+  label: 瞼停瘀血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d7
+    span:
+    - body
+    - 809
+    - 981
+  label: 不赤而痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d8
+    span:
+    - body
+    - 981
+    - 1140
+  label: 赤而不痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d9
+    span:
+    - body
+    - 1140
+    - 1252
+  label: 左赤傳右
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d10
+    span:
+    - body
+    - 1252
+    - 1392
+  label: 右赤傳左
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d11
+    span:
+    - body
+    - 1392
+    - 1558
+  label: 胞腫如桃
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d12
+    span:
+    - body
+    - 1558
+    - 1803
+  label: 視物不真
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d13
+    span:
+    - body
+    - 1803
+    - 2041
+  label: 室女逆經
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d14
+    span:
+    - body
+    - 2041
+    - 2236
+  label: 血室澀痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d15
+    span:
+    - body
+    - 2236
+    - 2435
+  label: 白睛黃赤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d16
+    span:
+    - body
+    - 2435
+    - 3492
+  label: 患眼頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d17
+    span:
+    - body
+    - 3492
+    - 3612
+  label: 眼能遠視不能近視
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d18
+    span:
+    - body
+    - 3612
+    - 3792
+  label: 能近視不能遠視
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d19
+    span:
+    - body
+    - 3792
+    - 11401
+  label: 治小兒疳傷
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d20
+    span:
+    - body
+    - 11401
+    - 12506
+  label: 五臟要論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d21
+    span:
+    - body
+    - 12506
+    - 13484
+  label: 審症應驗口訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d22
+    span:
+    - body
+    - 13484
+    - 13704
+  label: 審症秘論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d23
+    span:
+    - body
+    - 13704
+    - 14466
+  label: 辯眼經脈交傳病症論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d24
+    span:
+    - body
+    - 14466
+    - 14683
+  label: 用夾法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d25
+    span:
+    - body
+    - 14683
+    - 14965
+  label: 開金針法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d26
+    span:
+    - body
+    - 14965
+    - 15460
+  label: 眼科用藥次第法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d27
+    span:
+    - body
+    - 15460
+    - 17132
+  label: 金針眼科經驗方藥詩括
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d28
+    span:
+    - body
+    - 17132
+    - 18951
+  label: 丹藥和論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d29
+    span:
+    - body
+    - 18951
+    - 19419
+  label: 合丹日切要法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d30
+    span:
+    - body
+    - 19419
+    - 20412
+  label: 治諸眼一切點眼膏藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em011_jc_003-d5d31
+    span:
+    - body
+    - 20412
+    - 23098
+  label: 藥性論
+  type: section
+  level: 2
+hash: sha256:53b82dd32fca00e75e4f159aa104500bd4db2465f0c8102ce7a10c36bfca75d0
