@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em011/v1
 canonical_location: https://kanripo.org/bkk/KR3em011/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 銀海精微
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em011_000.yaml, hash: 'sha256:ee87c979860f147d74366a65d3581df65f758ca8f3ffbcc737f30a522eeb6902'}
-  - {seq: 1, filename: KR3em011_001.yaml, hash: 'sha256:ad4381d352731c04776971a82fa876223584b2572c6ff2794238eb16ba6d68fa'}
-  - {seq: 3, filename: KR3em011_003.yaml, hash: 'sha256:0bc995eebd2b4cde5a9c3cf787d1933cf190f03be465868da933b6266ba44b38'}
+  - {seq: 0, filename: KR3em011_000.yaml, hash: 'sha256:c0ef6dd3dba3a2ce748e549d9749cbf7cf8f57e59a2e67530bf5ea1af2788b78'}
+  - {seq: 1, filename: KR3em011_001.yaml, hash: 'sha256:d1c5335055383c42829d6f0b76db2957ec40bbbb781bf4d2f6b4a3ae21e4d1f8'}
+  - {seq: 3, filename: KR3em011_003.yaml, hash: 'sha256:b794a10c5aa23b0f2eaf9a85ffcc330c8c7c5508af67305e7ebaef357d7b008a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em011_000.markers.yaml, hash: 'sha256:73a75553337fdc49cc018f0e5eb2a20f3e8d448dde3f5a54fc6e431e18e23955'}
-  - {seq: 1, role: markers, filename: assets/KR3em011_001.markers.yaml, hash: 'sha256:5d5b32104f350d22ce589a327ab370333ad8b5f4b0d89c01a3ea30e5b1b21feb'}
-  - {seq: 3, role: markers, filename: assets/KR3em011_003.markers.yaml, hash: 'sha256:e59278f1b4fe75338977f5d59d1fa57f7f7a2325872f229886f23e310b6ff0d2'}
+  - {seq: 0, role: markers, filename: assets/KR3em011_000.markers.yaml, hash: 'sha256:f3459362592658e51d8d50d6dbdd38d0998e68ce96920284ad6e7e11517dcc26'}
+  - {seq: 1, role: markers, filename: assets/KR3em011_001.markers.yaml, hash: 'sha256:e9d5b1cbfa9d9d45d972bbefc8aa5ab81508e117a208788c790b4aee685405e0'}
+  - {seq: 3, role: markers, filename: assets/KR3em011_003.markers.yaml, hash: 'sha256:0d1f4fb6ebe4e5c686ef17dd75b4943c93e6b93f5d7865de926a4777ca2f1b11'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1055,4 +1055,7 @@ table_of_contents:
   label: 藥性論
   type: section
   level: 2
-hash: sha256:10a589e6e487f71f6fe63fea7fb62d0c3c4f2f4cd81e0d83a5525f57c29f4d39
+hash: sha256:a51c184a5ed7c269a6fb00f8c9e9b885af16a2057dfa8492288cbb3390000a87
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
