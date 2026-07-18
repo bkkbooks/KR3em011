@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3em011_003.yaml, hash: 'sha256:b794a10c5aa23b0f2eaf9a85ffcc330c8c7c5508af67305e7ebaef357d7b008a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3em011_000.markers.yaml, hash: 'sha256:f3459362592658e51d8d50d6dbdd38d0998e68ce96920284ad6e7e11517dcc26'}
-  - {seq: 1, role: markers, filename: assets/KR3em011_001.markers.yaml, hash: 'sha256:e9d5b1cbfa9d9d45d972bbefc8aa5ab81508e117a208788c790b4aee685405e0'}
-  - {seq: 3, role: markers, filename: assets/KR3em011_003.markers.yaml, hash: 'sha256:0d1f4fb6ebe4e5c686ef17dd75b4943c93e6b93f5d7865de926a4777ca2f1b11'}
+  - {seq: 1, role: markers, filename: assets/KR3em011_001.markers.yaml, hash: 'sha256:93999a9e7c333eb58522dd54ad16e3549ef0099cf4d299bfc231e1e7fca4d52a'}
+  - {seq: 3, role: markers, filename: assets/KR3em011_003.markers.yaml, hash: 'sha256:5fdbc653465a98f313c4eb426262c143692eeef061f05cd8508f531de227a3d5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1055,7 +1055,7 @@ table_of_contents:
   label: 藥性論
   type: section
   level: 2
-hash: sha256:a51c184a5ed7c269a6fb00f8c9e9b885af16a2057dfa8492288cbb3390000a87
+hash: sha256:d263859115be7a529c41033cfdad668ddb0de19978241a3c0004d601ff629a9f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
